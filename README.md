@@ -2,7 +2,7 @@
 
 This ROS2 node subscribes to the /inut_numbers topic, reads two float numbers, performs a division with them, and publishes the result to the '/division_rersult' topic.
 
-##Instructions to build, run, and test the node
+## Instructions to build, run, and test the node
 1. First clone the provided repository to the source code folder of your ROS2 workspace:
 ```
   https://github.com/RozsaDan/number_division.git
